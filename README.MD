@@ -2,8 +2,8 @@
 
 Esta es una aplicacion para generar archivos de tablas de multiplicar
 
-Ejecutar est Comando
+Ejecutar esteget Comando
 
-``
+```
 npm istall
 ```
