@@ -1,5 +1,6 @@
 //requires
 const fs = require('fs');
+
 let listarTabla = (base, limite = 10) => {
     return new Promise((resolver, reject) => {
         if (!Number(base)) {
